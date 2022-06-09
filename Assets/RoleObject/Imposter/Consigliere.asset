@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c3a05ac569ea540b6634f395a365d3, type: 3}
+  m_Name: Consigliere
+  m_EditorClassIdentifier: 
+  Id: 11
+  roleName: Consigliere
+  roleIcon: {fileID: 0}
+  roleType: 1
+  category: 2
+  description: "Consigliere i\xE7in Mafia\u2019n\u0131n Investigator\u2019\u0131
+    diyebiliriz. Kendisi her gece se\xE7ti\u011Fi ki\u015Finin rol\xFCn\xFC \xF6\u011Frenir
+    ve Mafia\u2019ya iyi bir istihbarat sa\u011Flar. "

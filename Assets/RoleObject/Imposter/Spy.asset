@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c3a05ac569ea540b6634f395a365d3, type: 3}
+  m_Name: Spy
+  m_EditorClassIdentifier: 
+  Id: 15
+  roleName: Spy
+  roleIcon: {fileID: 0}
+  roleType: 1
+  category: 5
+  description: "Her gece hedef ald\u0131\u011F\u0131 bir oyuncunun rol\xFCn\xFC ertesi
+    g\xFCn \xF6l\xFCrse veya as\u0131l\u0131rsa hain rollerden biri olarak g\xF6r\xFCnmesini
+    sa\u011Flar."

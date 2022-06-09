@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c3a05ac569ea540b6634f395a365d3, type: 3}
+  m_Name: Escort
+  m_EditorClassIdentifier: 
+  Id: 2
+  roleName: Escort
+  roleIcon: {fileID: 0}
+  roleType: 0
+  category: 2
+  description: "Her gece bir ki\u015Finin evini ziyaret ederek onun o gece \xF6zelli\u011Fini
+    kullanamamas\u0131n\u0131 sa\u011Flar. Yani bu g\xFCzel Escortumuz gece gitti\u011Fi
+    ki\u015Fiyi me\u015Fgul eder ve rol\xFCn\xFC kullanmas\u0131n\u0131 engeller.
+    Hi\xE7 kimse kendisinden ka\xE7amaz ancak seri katilin evine giderse orada \xF6ld\xFCr\xFCl\xFCr."

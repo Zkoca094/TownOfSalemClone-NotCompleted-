@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c3a05ac569ea540b6634f395a365d3, type: 3}
+  m_Name: Cheater
+  m_EditorClassIdentifier: 
+  Id: 18
+  roleName: Cheater
+  roleIcon: {fileID: 0}
+  roleType: 2
+  category: 8
+  description: "Tek amac\u0131 kendini ast\u0131rabilmek olan rol. Roleplay yetene\u011Finizle
+    birlikte devle\u015Febilir. Genellikle kasabal\u0131y\u0131 sinirlendirmeye veya
+    katiller gibi davran\u0131p kendilerini ast\u0131rmaya \xE7al\u0131\u015F\u0131rlar."

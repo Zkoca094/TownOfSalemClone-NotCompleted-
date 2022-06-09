@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43c3a05ac569ea540b6634f395a365d3, type: 3}
+  m_Name: Blackmailer
+  m_EditorClassIdentifier: 
+  Id: 10
+  roleName: Blackmailer
+  roleIcon: {fileID: 0}
+  roleType: 1
+  category: 2
+  description: "Her gece bir oyuncuyu tehdit eder, o ki\u015Fi sabah a\u011Fz\u0131n\u0131
+    a\xE7amaz. Yani e\u011Fer gece size blackmailer geldiyse sabah uyand\u0131\u011F\u0131n\u0131zda
+    konu\u015Famazs\u0131n\u0131z. O g\xFCn as\u0131l\u0131rken bile kendinizi savunamazs\u0131n\u0131z."
